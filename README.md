@@ -10,3 +10,7 @@ Dans l'ordre:
 - code-organization2
 - code-organization3
 - code-organization4
+
+Et pour le module Terraform de démonstration d'une application Nginx sur une instance EC2 d'AWS, les captures d'écran sont:
+- nginx-demo
+- nginx-demo2
